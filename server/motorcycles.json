@@ -1,0 +1,16 @@
+[
+  {
+    "make": "Yamaha",
+    "model": "Tracer 900",
+    "year": 2019,
+    "color": "gray",
+    "id": 1
+  },
+  {
+    "make": "Honda",
+    "model": "Shadow",
+    "year": 2017,
+    "color": "black",
+    "id": 7
+  }
+]
